@@ -1,4 +1,4 @@
 netcode
 =======
 
-Repository for the website netcode.io.
+Repository for the website http://www.netcode.io.
